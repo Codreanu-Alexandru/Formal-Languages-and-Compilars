@@ -1,0 +1,16 @@
+_VN_
+S A C E B
+_VT_
+a c e
+_START_
+S
+_P_
+S AC
+S B
+A a
+C c
+C BC
+E aA
+E e
+_LAMBDA_
+$
